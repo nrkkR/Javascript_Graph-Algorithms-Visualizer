@@ -41,7 +41,7 @@ Upon opening the application, you will be greeted with the main interface where 
 
 ## Screenshots
 ### Main Interface
-<img align="center" alt="coding" width="850" src="https://github.com/nrkkR/Javascript_Graph-Algorithms-Visualizer/blob/main/graph%20algorithms%20visualizer.png">
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Javascript_Graph-Algorithms-Visualizer/blob/main/graph%20algorithms%20visualizer.png">
 
 ## Credits
 Created by [Rajdeep Mondal](https://www.linkedin.com/in/rajdeep-mondal-a277a9317)  
